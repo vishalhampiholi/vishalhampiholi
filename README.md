@@ -7,7 +7,7 @@
 - 🔭 Full stack dev @ Prodapt solutions private ltd
 - 🌱 currently learning go ==> advent of code and projects
 - 👯 Open source projects on **Go** and **Typyescript**
-- 🤔 **Go** lang and building projects
+- 🤔 finding good Opensource projects , finding Remote job
 
 
 
