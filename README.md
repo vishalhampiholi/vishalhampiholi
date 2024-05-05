@@ -4,7 +4,7 @@
 
 
 
-- 🔭 Full stack dev @ Prodapt solutions private ltd
+- 🔭  Front end dev @ Novigo solutions private ltd
 - 🌱 currently learning go ==> advent of code and projects
 - 👯 Open source projects on **Go** and **Typyescript**
 - 🤔 finding good Opensource projects , finding Remote job
